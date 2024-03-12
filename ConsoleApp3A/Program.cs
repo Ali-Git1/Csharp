@@ -111,26 +111,115 @@ namespace ConsoleApp3A
             //    //Console.WriteLine(nums[i]);
             //    if (nums[i]%2== 0)
             //    {
-                    
+
             //        cut += nums[i];
-                    
-                   
+
+
 
             //    }
             //    else
             //    {
-                  
+
             //        tek += nums[i];
-                   
+
             //    }
             //}
             //Console.WriteLine("Cut ededlerin cemi :"+cut);
-            
+
             //Console.WriteLine("Tek ededlerin cemi :"+tek);
-            
 
+
+
+
+            //12
+
+
+            //int[] nums = { 8, 6, 12, 3, 43 };
+
+            //int sum = 0;
+            //int average = 0;
+            //for (int i = 0; i < nums.Length; i++)
+            //{
+
+            //    sum += nums[i];
+
+            //}
+            //Console.WriteLine("Ededlerin cemi:" + sum);
+            //sum /= nums.Length;
+            //average = sum;
+
+            //Console.WriteLine(average);
+
+
+
+            //double x1;
+            //double x2;
+            //double x3;
+            //double y1;
+            //double y2;
+            //double y3;
+            //double z1;
+            //double z2;
+            //double z3;
+
+            //x1 = Convert.ToDouble(Console.ReadLine());
+            //x2= Convert.ToDouble(Console.ReadLine());
+            //x3= Convert.ToDouble(Console.ReadLine());
+            //y1= Convert.ToDouble(Console.ReadLine());
+            //y2= Convert.ToDouble(Console.ReadLine());
+            //y3= Convert.ToDouble(Console.ReadLine());
+            //z1= Convert.ToDouble(Console.ReadLine());
+            //z2= Convert.ToDouble(Console.ReadLine());
+            //z3= Convert.ToDouble(Console.ReadLine());
+
+            //double a1= x2 - x1;
+            //double b1 = y2 - y1;
+            //double c1 = z2 - z1;
+            //double a2 = x3 - x1;
+            //double b2 = y3 - y1;
+            //double c2 = z3 - z1;
+            //double a = b1 * c2 - b2 * c1;
+            //double b = a2 * c1 - a1 * c2;
+            //double c = a1 * b2 - b1 * a2;
+            //double d = (-a * x1 - b * y1 - c * z1);
+
+            //Console.Write("müstəvi tənliyi" + a +
+            //          "x + " + b + "y + " + c +
+            //              "z + " + d + " = 0");
+
+
+
+
+            //int m = 0;
+            //int m1 = 0;
+
+            //Console.WriteLine("x1 ve y1 daxil edin");
+            //int x1=Convert.ToInt32(Console.ReadLine());
+            //int y1 = Convert.ToInt32(Console.ReadLine());
+
+
+            //Console.WriteLine("x2 ve y2 daxil edin");
+            //int x2 = Convert.ToInt32(Console.ReadLine());
+            //int y2 = Convert.ToInt32(Console.ReadLine());
+
+
+            //Console.WriteLine("x3 ve y3 daxil edin");
+            //int x3 = Convert.ToInt32(Console.ReadLine());
+            //int y3 = Convert.ToInt32(Console.ReadLine());
+
+            //m = (y2-y1) / (x2 - x1);
+            //m1=(y3-y1)/ (x3 - x1);
+
+            //if(m==m1)
+            //{
+            //    Console.WriteLine("Bu üç nöqtə eyni xətt üzərində deyil");
+                
+            //}
+
+           
         }
-
+       
     }
-    
 }
+    
+
