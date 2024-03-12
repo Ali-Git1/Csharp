@@ -101,32 +101,32 @@ namespace ConsoleApp3A
             //}
 
 
+            //Task5
 
-
-            int[] nums = { 1, 2, 3, 4, 5, 6, 7, 8, };
-            int tek = 0;
-            int cut = 0;
-            for (int i = 0; i < nums.Length; i++)
-            {
-                //Console.WriteLine(nums[i]);
-                if (nums[i]%2== 0)
-                {
+            //int[] nums = { 1, 2, 3, 4, 5, 6, 7, 8, };
+            //int tek = 0;
+            //int cut = 0;
+            //for (int i = 0; i < nums.Length; i++)
+            //{
+            //    //Console.WriteLine(nums[i]);
+            //    if (nums[i]%2== 0)
+            //    {
                     
-                    cut += nums[i];
+            //        cut += nums[i];
                     
                    
 
-                }
-                else
-                {
+            //    }
+            //    else
+            //    {
                   
-                    tek += nums[i];
+            //        tek += nums[i];
                    
-                }
-            }
-            Console.WriteLine("Cut ededlerin cemi :"+cut);
+            //    }
+            //}
+            //Console.WriteLine("Cut ededlerin cemi :"+cut);
             
-            Console.WriteLine("Tek ededlerin cemi :"+tek);
+            //Console.WriteLine("Tek ededlerin cemi :"+tek);
             
 
         }

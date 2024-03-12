@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp3A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFC79CC-F8BD-43B9-999E-EB64FE9CFF96}|ConsoleApp3A\\ConsoleApp3A.csproj|c:\\users\\elvin\\source\\repos\\consoleapp3a\\consoleapp3a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFC79CC-F8BD-43B9-999E-EB64FE9CFF96}|ConsoleApp3A\\ConsoleApp3A.csproj|solutionrelative:consoleapp3a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp3A\\ConsoleApp3A\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3A\\Program.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp3A\\ConsoleApp3A\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3A\\Program.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAiwIAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T06:18:26.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
